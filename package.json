@@ -8,6 +8,7 @@
     "gatsby-image": "^1.0.48",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-plugin-sharp": "^1.6.43",
     "gatsby-transformer-sharp": "^1.6.23",
     "react-helmet": "^5.2.0"
   },
