@@ -1,10 +1,10 @@
 Hey Buddy! 👋
 
 <p align="center">
-  <a href="https://twitter.com/weezykon">Twitter</a> •
-  <a href="https://www.linkedin.com/in/weezykon/">LinkedIn</a> •
-  <a href="https://medium.com/@weezykon">Medium</a> •
-  <a href="https://dev.to/weezykon">Dev.to</a>
+  <a href="https://twitter.com/weezykon" target="_new">Twitter</a> •
+  <a href="https://www.linkedin.com/in/weezykon/" target="_new">LinkedIn</a> •
+  <a href="https://medium.com/@weezykon" target="_new">Medium</a> •
+  <a href="https://dev.to/weezykon" target="_new">Dev.to</a>
 </p>
 
 I am a Senior Software Engineer at Gricd, the leading cold chain solutions company in Nigeria and West Africa. I'm also a writer at The Journal Blog on Medium.
