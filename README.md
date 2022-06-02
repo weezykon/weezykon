@@ -7,7 +7,7 @@ Hey Buddy! 👋
   <a href="https://dev.to/weezykon" target="_new">Dev.to</a>
 </p>
 
-I am a Senior Software Engineer at Gricd, the leading cold chain solutions company in Nigeria and West Africa. I'm also a writer at The Journal Blog on Medium.
+I am a Software Engineer, in Nigeria. I'm also a writer at The Journal Blog on Medium.
 
 Specialities: Team Management, Team Building, Strategic Planning, Software Development, Frontend and Back-End Web Development and Start-Ups. I have some experiences in Fintech, E-commerce, IoT and B2B Apps.
 
