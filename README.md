@@ -15,9 +15,10 @@ Hey Buddy! 👋
 </p>
 <br/>
 Senior Full-Stack Engineer with 8+ years & Developer Advocate with progressive experience designing and implementing enterprise-grade web solutions across Fintech, E-commerce, SaaS, and IoT industries. Expertise spans the complete technology stack—from crafting intuitive, animated user interfaces with React, Angular, and Vue.js to building robust, scalable backends with Node.js and PHP. 
+
 Proven track record in leading development teams through complex projects using Agile methodologies, with exceptional ability to deliver projects ahead of schedule while maintaining high quality standards. Recognized technical writer and open-source contributor who bridges technical innovation with strategic business impact.
 
-
+<br/><br/>
 <p>
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weezykon&count_private=true&langs_count=6&hide=php,roff,css,html,HTML,JavaScript,TSQL,Hack&langs_count=8&layout=compact&theme=dark"/> -->
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />   
