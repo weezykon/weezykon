@@ -14,12 +14,8 @@ Hey Buddy! 👋
   </a>
 </p>
 <br/>
-
-I am a Software Engineer, in Nigeria. I'm also a writer at The Journal Blog on Medium.
-
-Specialities: Team Management, Team Building, Strategic Planning, Software Development, Frontend and Back-End Web Development and Start-Ups. I have some experiences in Fintech, E-commerce, IoT and B2B Apps.
-
-Methodology: Agile Scrum, Object-oriented 
+Senior Full-Stack Engineer with 8+ years & Developer Advocate with progressive experience designing and implementing enterprise-grade web solutions across Fintech, E-commerce, SaaS, and IoT industries. Expertise spans the complete technology stack—from crafting intuitive, animated user interfaces with React, Angular, and Vue.js to building robust, scalable backends with Node.js and PHP. 
+Proven track record in leading development teams through complex projects using Agile methodologies, with exceptional ability to deliver projects ahead of schedule while maintaining high quality standards. Recognized technical writer and open-source contributor who bridges technical innovation with strategic business impact.
 
 
 <p>
