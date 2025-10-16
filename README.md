@@ -23,7 +23,7 @@ const impact = {
 ## 🛠️ Tech Stack
 
 **Languages:** TypeScript, JavaScript, PHP  
-**Backend:** Node.js, Express, GraphQL, Hono.js  
+**Backend:** Node.js, Express, GraphQL, Hono.js, Fastify  
 **Frontend:** React, Next.js, Vue.js, Angular  
 **Database:** PostgreSQL, MongoDB, Redis, MySQL 
 **Cloud & DevOps:** AWS, Docker, GitHub Actions  
