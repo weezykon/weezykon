@@ -1,6 +1,6 @@
 # Hey, I'm Akinlolu 👋
 
-Senior Full-Stack Engineer crafting scalable solutions for African markets | 8+ years building fintech infrastructure and SaaS
+Senior Backend Engineer crafting scalable solutions for African markets | 8+ years building fintech infrastructure and SaaS
 
 ## 🚀 What I'm up to
 
