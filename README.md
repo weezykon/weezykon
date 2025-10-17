@@ -9,16 +9,16 @@ Senior Backend Engineer crafting scalable solutions for African markets | 8+ yea
 - 🧪 Experimenting with Hono.js and modern TypeScript patterns
 - ✍️ Writing technical articles on [Medium](https://medium.com/@weezykon) and [Dev.to](https://dev.to/weezykon)
 
-## 💡 Impact & Experience
-```javascript
-const impact = {
-  processed: "₦2B+ in payments",
-  served: "600+ businesses across West Africa",
-  years: "8+ years shipping production code",
-  focus: ["Fintech", "E-commerce", "SaaS", "IoT"],
-  approach: "Ship fast, iterate faster"
-};
-```
+💼 Experience:
+- 8+ years backend development (Node.js/TypeScript)
+- ₦2B+ ($1.3M USD) payment processing (Paystack integration)
+- 600+ businesses served across West Africa
+- Built multi-tenant SaaS, real-time systems, and payment platforms
+
+💡 Featured Projects:
+- Hono.js Fintech Starter - Production boilerplate with auth, DB, jobs
+- African Payment Gateway SDK - TypeScript SDK for Paystack/Flutterwave
+- Web3 Payment Bridge - Blockchain payment monitoring (WIP)
 
 ## 🛠️ Tech Stack
 
@@ -29,11 +29,13 @@ const impact = {
 **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 **Queue & Messaging:** BullMQ, RabbitMQ  
 
-## 🌟 Featured Work
 
+## 🌟 Featured Work
 - **Open Source:** Active contributor to developer tools and libraries
 - **Technical Writing:** Published articles reaching 10K+ developers monthly
 - **Team Leadership:** Led cross-functional teams delivering projects ahead of schedule
+
+⚡ Ship fast, iterate faster
 
 ## 📫 Let's Connect
 
