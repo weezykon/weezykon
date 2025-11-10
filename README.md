@@ -24,8 +24,12 @@ Senior Full-Stack Engineer crafting scalable solutions for African markets | 8+ 
 
 **Languages:** TypeScript, JavaScript, PHP  
 **Backend:** Node.js, Express, GraphQL, Hono.js, Fastify  
-**Frontend:** React, Next.js, Vue.js, Angular  
+**Frontend:** React, Next.js, Vue.js, Angular
+**Animation & Interactions:** Framer Motion, GSAP, CSS Animations, WebGL/OGL, Canvas API, Micro-interactions
+**Design Systems:** Atomic Design, Component Architecture, ShadCN, Tailwind CSS, Styled Components
+**Design Tools & Collaboration:** Figma (design handoff, prototyping), Responsive Design, Accessibility (WCAG, ARIA)
 **Database:** PostgreSQL, MongoDB, Redis, MySQL 
+**Performance & Quality:** Playwright, Cypress, Jest, Performance Optimization, Code Splitting, Lazy Loading
 **Cloud & DevOps:** AWS, Docker, GitHub Actions  
 **Queue & Messaging:** BullMQ, RabbitMQ  
 
